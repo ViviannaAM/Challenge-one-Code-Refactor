@@ -4,16 +4,18 @@
 ### Description
 To implement refactoring within an existing code to better its semantic tags, accessabililty attributes, and general form.
 
-## User Story
+### User Story
 As a marketing agency, I want a codebase that follows accessibility standards so thatour own site is optimized for search engines.
 
-## Built With:
+### Built With:
 - CSS
 - HTML
 
-Deployed Link: file:///C:/Users/Vivi%20M/urban-octo-telegram-1/Develop/index.html
+### Deployed Link:
+file:///C:/Users/Vivi%20M/urban-octo-telegram-1/Develop/index.html
 
-## Contribution: Vivianna M.
+### Contribution: 
+Vivianna M.
 
-## Original Code Link: 
+### Original Code Link: 
 https://github.com/coding-boot-camp/urban-octo-telegram : by @Xandromus
